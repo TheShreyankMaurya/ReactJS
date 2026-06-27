@@ -1,9 +1,9 @@
-import Card from "./ReportCard";
+import Counter from "./Counter";
 
 function App() {
     return (
         <>
-            <Card></Card>
+            <Counter></Counter>
         </>
     );
 }
