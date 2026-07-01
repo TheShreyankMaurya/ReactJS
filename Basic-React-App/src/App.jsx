@@ -1,9 +1,9 @@
-import LikeBtn from "./LikeBtn";
+import Ludo from "./Ludo";
 
 function App() {
     return (
         <>
-            <LikeBtn></LikeBtn>
+            <Ludo></Ludo>
         </>
     );
 }
