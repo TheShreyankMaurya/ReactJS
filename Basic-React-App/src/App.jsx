@@ -1,10 +1,12 @@
 import CommentForm from "./CommentForm";
+import Counter from "./Counter";
 import Form from "./Form";
 
 function App() {
     return (
         <>
-            <CommentForm></CommentForm>
+            <Counter></Counter>
+            {/* <CommentForm></CommentForm> */}
         </>
     );
 }
