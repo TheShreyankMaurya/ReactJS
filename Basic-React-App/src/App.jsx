@@ -1,9 +1,9 @@
-import Ludo from "./Ludo";
+import Form from "./Form";
 
 function App() {
     return (
         <>
-            <Ludo></Ludo>
+            <Form></Form>
         </>
     );
 }
