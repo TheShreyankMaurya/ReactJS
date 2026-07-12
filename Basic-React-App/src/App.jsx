@@ -1,14 +1,9 @@
-import CommentForm from "./CommentForm";
-import Counter from "./Counter";
-import Form from "./Form";
-import Joker from "./Joker";
+import MaterialUI from "./MaterialUI";
 
 function App() {
     return (
         <>
-            <Joker></Joker>
-            {/* <Counter></Counter> */}
-            {/* <CommentForm></CommentForm> */}
+            <MaterialUI></MaterialUI>
         </>
     );
 }
